@@ -28,7 +28,7 @@
     "label": "SK"
   },
   {
-    "command": "/offwarn {nick} TK | ЖБ#{cid}\n/offjail {nick} 60 SK | ЖБ#{cid}",
+    "command": "/offwarn {nick} TK | ЖБ#{cid}\n/offjail {nick} 60 TK | ЖБ#{cid}",
     "label": "TK"
   },
   {
