@@ -4,6 +4,10 @@
     "label": "2.2 ОП бан 7д "
   },
   {
+    "command": "/offban {nick} 3 1.2 ОП | ЖБ#{cid}",
+    "label": "выдача за адм "
+  },
+  {
     "command": "/offjail {nick} 40 DM | ЖБ#{cid}",
     "label": "DM 40 мин"
   },
