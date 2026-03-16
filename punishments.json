@@ -64,6 +64,10 @@
     "label": "5.2 ОП баг"
   },    
   {
+    "command": "/offban {nick} 7 4.1 ОП | ЖБ#{cid}",
+    "label": "4.1 ОП СКАМ"
+  },
+  {
     "command": "/offban {nick} 31 5.2 ОП | ЖБ#{cid}",
     "label": "5.2 ОП софт"
   }
