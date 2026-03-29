@@ -1,5 +1,9 @@
 [
   {
+    "command": "/offban {nick} NN 1.5 ОПГ | ЖБ#{cid}",
+    "label": "1.5 ОПГ "
+  },
+  {
     "command": "/offban {nick} 7 2.2 ОП | ЖБ#{cid}",
     "label": "2.2 ОП бан 7д "
   },
