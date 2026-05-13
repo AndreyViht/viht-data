@@ -76,6 +76,10 @@
     "command": "/offjail {nick} 40 DM | ЖБ#{cid}"
   },
   {
+    "label": "NonRP",
+    "command": "/offjail {nick} 30 NonRP | ЖБ#{cid}"
+  },
+  {
     "label": "SK jail 90",
     "command": "/offjail {nick} 90 SK | ЖБ#{cid}"
   },
